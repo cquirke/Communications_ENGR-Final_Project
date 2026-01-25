@@ -58,6 +58,9 @@ This project was completed as part of **ENGR 270 – Technical Communications** 
 ---
 
 **Author:** Collin Quirke  
+
 **Institution:** Liberty University  
+
 **Course:** ENGR 270 – Technical Communications  
+
 **Time Frame** March - May 2025
