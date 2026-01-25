@@ -41,3 +41,23 @@ The proposed course is a **3-credit technical elective** intended for sophomore-
 
 The course is designed to prepare students for careers in aerospace, automotive, defense, and energy industries while emphasizing interdisciplinary problem-solving and ethical, Christ-centered engineering practice.
 
+
+## Skills Demonstrated
+
+- Technical writing and engineering communication  
+- Curriculum and course design  
+- Engineering feasibility and budgeting  
+- Survey analysis and data-driven decision making  
+- Propulsion and aerospace domain knowledge  
+- Professional documentation suitable for academic and industry review  
+
+## Context
+
+This project was completed as part of **ENGR 270 – Technical Communications** and is included here as a **portfolio artifact** demonstrating my ability to communicate complex engineering ideas clearly, professionally, and persuasively.
+
+---
+
+**Author:** Collin Quirke  
+**Institution:** Liberty University  
+**Course:** ENGR 270 – Technical Communications  
+**Time Frame** March - May 2025
