@@ -16,9 +16,10 @@ Each proposal was designed to address a real gap in Liberty University’s curre
 - `documents/` –  Course proposal and presentation powerpoint
 - `media/` – Photos and videos from presentation
 
-## My Contribution
-
+<u>Note:</u>
 Under documents there is another seperate proposal, *Introduction to Engineered Propulsion - Proposal*. This document was presented to the Dean of Engineering, Dean Camplin, a year after completing the course and is awaiting his decision.
+
+## My Contribution
 
 I was the **sole author and technical lead for Proposal 1: _Introduction to Engineered Propulsion_**.
 
